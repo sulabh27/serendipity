@@ -1,4 +1,4 @@
-# serendipity
+# serendipity instructions
 This is a simple perl file that takes input data on parents, students, and teachers, as well a lunch schedule. This is represented in the file data.xlsx in the github repo.
 The main code is in assignment.pl
 
